@@ -109,9 +109,9 @@ Maternal mortality has imroved globally, butstrng disparities remain betwee deve
 
 Files Delivered
 
-Cleaned Dataset:
-maternal_mortality_clean.sql
-maternal_mortality_clean.csv
+SQL File: maternal_mortality_clean.sql
+
+Cleaned Dataset: maternal_mortality_clean.csv
 
 Tableau Dashboard: [https://public.tableau.com/app/profile/uchenna.abaah/vizzes]
 
