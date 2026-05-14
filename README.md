@@ -6,7 +6,11 @@ To analyze global maternal mortality trends and identify key factors influencing
 
 Goal:
 
+To analyze global maternal mortality trends from 1990 - 2021 using SQL and Tableau in order to identify regional disparities, development-related patterns, and countries with significant progress or ongoing challneges. This project also aims to demonstrate practival skills in data cleaning, transformation, analysis, and dashboard visualization.
+
 Scenario/Background:
+
+Maternal mortality remains a major global public health issue, particulalry in developing regions where access to quality healthcare is limited. Using historical maternal mortality data across multiple countries and continents, this project explores how mortality rates have changed over time and how factors such as geographic region and human development levels influence maternal health outcomes.
 
 Approach:
 
@@ -81,7 +85,7 @@ Most high-mortality countries are in develping regions
 
 v. Share
 <img width="999" height="799" alt="Global Maternal Mortality Analysis" src="https://github.com/user-attachments/assets/0d1450db-7e3a-45ef-8141-8ccc205a6602" />
-Tableau Dashboard Link: [https://public.com/app/profile/uchenna.abaah/vizzes]
+Tableau Dashboard Link: [https://public.tableau.com/app/profile/uchenna.abaah/vizzes]
 
 vi. Act
 
@@ -105,7 +109,7 @@ Cleaned Dataset:
 maternal_mortality_clean.sql
 maternal_mortality_clean.csv
 
-Tableau Dashboard: [https://public.com/app/profile/uchenna.abaah/vizzes]
+Tableau Dashboard: [https://public.tableau.com/app/profile/uchenna.abaah/vizzes]
 
 
 
