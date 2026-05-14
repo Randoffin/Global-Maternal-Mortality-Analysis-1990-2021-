@@ -79,7 +79,7 @@ Very high HDI countries have minimal mortality
 
 4. Top Improvements
    
-Countries like Sierra Leone and Eritrea mae major progress
+Countries like Sierra Leone and Eritrea made major progress
 <img width="603" height="4020" alt="Top improvements" src="https://github.com/user-attachments/assets/e341d92a-e1eb-407a-913c-df9be393a3a7" />
 
 5. Current High-Risk Countries
@@ -112,6 +112,8 @@ Files Delivered
 SQL File: maternal_mortality_clean.sql
 
 Cleaned Dataset: maternal_mortality_clean.csv
+
+Additional dataset created: improvement.csv
 
 Tableau Dashboard: [https://public.tableau.com/app/profile/uchenna.abaah/vizzes]
 
