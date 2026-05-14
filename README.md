@@ -2,7 +2,7 @@ Title: Global Maternal Mortality Analysis (1990 - 2021)
 
 Introduction/Objective:
 
-To analyze global maternal mortality trends and identify key factors influencing mortality rates using SQL for data cleaning and analysis and Tableau for visualization. In order to answer the business questions, I followed the steps of the data anaslysis process: Ask, Prepare, Process, Analyze, Share, and Act.
+To analyze global maternal mortality trends and identify key factors influencing mortality rates using SQL for data cleaning and analysis and Tableau for visualization. In order to answer the five key questions posed in the Ask Phase, I followed the steps of the data analysis process: Ask, Prepare, Process, Analyze, Share, and Act.
 
 Goal:
 
@@ -19,9 +19,9 @@ i. Ask
 Five key questions will guide this analysis:
 1. Is morality decreasing globally?
 2. Which continents are worst affected?
-3. Does developement affect mortality?
-4. Which countries imroved the most?
-5. Which countries are wort today?
+3. Does development affect mortality?
+4. Which countries improved the most?
+5. Which countries are worst today?
 
 ii. Prepare
 
@@ -30,7 +30,7 @@ Data Source:
 One csv dataset was used: Maternal Mortality.csv 
 
 Dataset Link: https://www.kaggle.com/datasets/iamsouravbanerjee/maternal-mortality-dataset
-This data is created from Human Develoement Reports of the United Nations Development Programme (UNDP). This dataset falls under the Creative Commons Attribution 3.0 License [https://hdr.undp.org/terms-use]
+This data is created from Human Develoement Reports of the United Nations Development Programme (UNDP). This dataset falls under the Creative Commons Attribution 3.0 License [https://hdr.undp.org/terms-use].
 
 iii. Process
 
@@ -72,7 +72,7 @@ Europe has the lowest
 
 3. Impact of Developement
    
-Countries with low HDI have extrememly hgih mortality
+Countries with low HDI have extrememly high mortality
 
 Very high HDI countries have minimal mortality
 <img width="307" height="286" alt="HDI impact" src="https://github.com/user-attachments/assets/7d2e9df3-1f9a-49d6-be72-8671ef5db18b" />
@@ -84,7 +84,7 @@ Countries like Sierra Leone and Eritrea made major progress
 
 5. Current High-Risk Countries
    
-Most high-mortality countries are in develping regions
+Most high-mortality countries are in developing regions
 <img width="603" height="4020" alt="Worst countries" src="https://github.com/user-attachments/assets/a63b03c7-9863-4bcc-bb4c-d7a3ab2c7132" />
 
 v. Share
@@ -97,15 +97,15 @@ Recommendations:
 
 Increase healthcare investment in low-HDI countries.
 
-Imrove maternal healthcare access in Africa.
+Improve maternal healthcare access in Africa.
 
-Strngthen global health policies and funding.
+Strengthen global health policies and funding.
 
-Focus on rural ad underserved populations.
+Focus on rural and underserved populations.
 
 Conclusion:
 
-Maternal mortality has imroved globally, butstrng disparities remain betwee developed and developing regions, highlighting the need for targeted interventions.
+Maternal mortality has improved globally, but strong disparities remain between developed and developing regions, highlighting the need for targeted interventions.
 
 Files Delivered
 
