@@ -6,7 +6,7 @@ To analyze global maternal mortality trends and identify key factors influencing
 
 Goal:
 
-To analyze global maternal mortality trends from 1990 - 2021 using SQL and Tableau in order to identify regional disparities, development-related patterns, and countries with significant progress or ongoing challneges. This project also aims to demonstrate practival skills in data cleaning, transformation, analysis, and dashboard visualization.
+To analyze global maternal mortality trends from 1990 - 2021 using SQL and Tableau in order to identify regional disparities, development-related patterns, and countries with significant progress or ongoing challenges.
 
 Scenario/Background:
 
@@ -16,7 +16,7 @@ Approach:
 
 i. Ask
 
-Five key questions will guide the health teams and governments in making proper decisons across regions:
+Five key questions will guide this analysis:
 1. Is morality decreasing globally?
 2. Which continents are worst affected?
 3. Does developement affect mortality?
@@ -27,8 +27,10 @@ ii. Prepare
 
 Data Source:
 
+One csv dataset was used: Maternal Mortality.csv 
+
 Dataset Link: https://www.kaggle.com/datasets/iamsouravbanerjee/maternal-mortality-dataset
-This data has been made available by ---------under this license https://
+This data is created from Human Develoement Reports of the United Nations Development Programme (UNDP). This dataset falls under the Creative Commons Attribution 3.0 License [https://hdr.undp.org/terms-use]
 
 iii. Process
 
@@ -49,6 +51,8 @@ Cleaned and renamed columns
 Transformed data from wide to long format using SQL (UNION ALL)
 
 Performed data quality checks (missing values, duplicates)
+
+After the process phase, I came up with a clean dataset I named maternal_mortality_clean.csv which I used in the analysis phase.
 
 iv. Analyze
 
