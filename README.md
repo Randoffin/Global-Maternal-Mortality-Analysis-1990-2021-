@@ -10,7 +10,7 @@ To analyze global maternal mortality trends from 1990 - 2021 using SQL and Table
 
 Scenario/Background:
 
-Maternal mortality remains a major global public health issue, particulalry in developing regions where access to quality healthcare is limited. Using historical maternal mortality data across multiple countries and continents, this project explores how mortality rates have changed over time and how factors such as geographic region and human development levels influence maternal health outcomes.
+Maternal mortality remains a major global public health issue, particularly in developing regions where access to quality healthcare is limited. Using historical maternal mortality data across multiple countries and continents, this project explores how mortality rates have changed over time and how factors such as geographic region and human development levels influence maternal health outcomes.
 
 Approach:
 
@@ -30,7 +30,7 @@ Data Source:
 One csv dataset was used: Maternal Mortality.csv 
 
 Dataset Link: https://www.kaggle.com/datasets/iamsouravbanerjee/maternal-mortality-dataset
-This data is created from Human Develoement Reports of the United Nations Development Programme (UNDP). This dataset falls under the Creative Commons Attribution 3.0 License [https://hdr.undp.org/terms-use].
+This dataset is created from Human Develoement Reports of the United Nations Development Programme (UNDP). This dataset falls under the Creative Commons Attribution 3.0 License [https://hdr.undp.org/terms-use].
 
 iii. Process
 
@@ -38,7 +38,7 @@ Tools Used:
 
 SQL (SQLite via Dbeaver): For data cleaning, transformation, and analysis
 
-Tableau Publc: For creating visual dashboards
+Tableau Public: For creating visual dashboards
 
 Github: For version control and project documentation
 
