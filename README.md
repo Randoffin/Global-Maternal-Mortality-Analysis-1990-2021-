@@ -88,6 +88,8 @@ Most high-mortality countries are in developing regions
 <img width="603" height="4020" alt="Worst countries" src="https://github.com/user-attachments/assets/a63b03c7-9863-4bcc-bb4c-d7a3ab2c7132" />
 
 v. Share
+
+This dashboard visualizes global maternal mortality trends, regional disparities, development-level differences, and country-level improvements between 1990 and 2021. It was designed to provide a clear and interactive summary of key maternal health insights using SQL and Tableau.
 <img width="999" height="799" alt="Global Maternal Mortality Analysis" src="https://github.com/user-attachments/assets/0d1450db-7e3a-45ef-8141-8ccc205a6602" />
 Tableau Dashboard Link: [https://public.tableau.com/app/profile/uchenna.abaah/vizzes]
 
